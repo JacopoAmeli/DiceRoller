@@ -16,3 +16,4 @@ RPGSet: You can set modifiers to add/subtract to the total roll, to each rolled 
 
 
 Version 0.1 - First release. Probably riddled with bugs.
+Version 0.2 - Fixed a couple of visual bugs.
