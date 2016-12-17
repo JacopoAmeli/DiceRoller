@@ -24,3 +24,5 @@ Version 0.3 - Added "Enabled" checkbox for skill checks.
 Version 0.4 - Increased logger size, font, image size, fixed behavior on close
 
 Version 0.5 - Increased checkbox size, changed SWSkill name insertion method
+
+Version 0.5.1 - Fixed Cell Width on left panel 
